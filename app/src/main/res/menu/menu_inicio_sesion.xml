@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_informacion"
+        android:title="@string/nav_informacion" />
+    <item
+        android:id="@+id/nav_acerca_de"
+        android:title="@string/nav_acerca_de" />
+    <item
+        android:id="@+id/nav_terminos"
+        android:title="@string/nav_terminos" />
+
+</menu>

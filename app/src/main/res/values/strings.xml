@@ -1,0 +1,22 @@
+<resources>
+
+    <!--AndroidManifest -->
+    <string name="app_name">El Perù Primero</string>
+    <!--activity main -->
+    <string name="mensaje"> Entérate de lo que está pasando en el Perù y en el mundo en este momento </string>
+    <string name="crear_cuenta"> Crear cuenta </string>
+    <string name="tienes_cuenta">Ya tienes cuenta ?</string>
+    <string name="iniciar_sesiòn">Iniciar sesiòn</string>
+
+    <!--Inicio sesion-->
+    <string name="usuario">Usuario</string>
+    <string name="usuario_hint">Nombre de usuario</string>
+    <string name="constrasena"> Contraseña </string>
+    <string name="contrasena_hint">Ingrese Contraseña</string>
+
+
+    <string name="nav_informacion">Informacion</string>
+    <string name="nav_acerca_de">Acerca de </string>
+    <string name="nav_terminos">Términos y condiciones</string>
+
+</resources>
