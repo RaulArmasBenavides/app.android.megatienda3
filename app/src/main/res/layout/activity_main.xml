@@ -44,6 +44,19 @@
         android:text="@string/crear_cuenta" />
     </LinearLayout>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:layout_weight="1">
+        <Button
+            android:id="@+id/btnCrearCuenta2"
+            android:layout_width="147dp"
+            android:layout_height="wrap_content"
+            android:text="@string/crear_cuenta" />
+    </LinearLayout>
+
+
 
     <LinearLayout
            android:layout_width="wrap_content"

@@ -13,8 +13,12 @@ class MainActivity : AppCompatActivity() {
         btnCrearCuenta.setOnClickListener{
 
             startActivity( Intent(this,CrearCuentaActivity::class.java))
+        }
 
-}
+        btnCrearCuenta2.setOnClickListener{
+
+            startActivity( Intent(this,ListView01Activity::class.java))
+        }
 
         tvInicioSesion.setOnClickListener{
 
